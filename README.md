@@ -1,17 +1,22 @@
-## Hi there 👋
+# Hello, I'm Wyse
+<a href="https://www.linkedin.com/in/wyse-lee/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-- 🔭 I’m currently pursuing Cybersecurity
-<!--
-**wyseLee/wyseLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently pursuing Cybersecurity with an interest in technology and a dedication to solving complex problems.
 
-Here are some ideas to get you started:
+<!--## Objective-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<!--## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+
+## Tools-->
+## Certifications
+<div>
+  <img src="https://img.shields.io/badge/-PCEP-306998?&style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-eJPT-000000?&style=for-the-badge&logo=offensive%20security&logoColor=white" />
+</div>
+
+## Projects
