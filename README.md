@@ -12,13 +12,9 @@ I am currently pursuing Cybersecurity with an interest in technology and a dedic
 | Python programming                            | Network scanner            |
 |                                               | Sundrop Farm               |
 |                                               | Hybrid ChaCha Rabbit       |
-|-----------------------------------------------|----------------------------|
 | C# programming (OOP)                          | PRG2 Assignment            |
-|-----------------------------------------------|----------------------------|
 | Front-End Development                         | CSS Assignment             |
-|-----------------------------------------------|----------------------------|
 | Malware Analysis                              | NanoCore Analysis          |
-|-----------------------------------------------|----------------------------|
 
 <!--## Tools-->
 ## Certifications
