@@ -5,18 +5,24 @@ I am currently pursuing Cybersecurity with an interest in technology and a dedic
 
 <!--## Objective-->
 
-
-
-<!--## Skills
+## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Python programming                            | Network scanner            |
+|                                               | Sundrop Farm               |
+|                                               | Hybrid ChaCha Rabbit       |
+|-----------------------------------------------|----------------------------|
+| C# programming (OOP)                          | PRG2 Assignment            |
+|-----------------------------------------------|----------------------------|
+| Front-End Development                         | CSS Assignment             |
+|-----------------------------------------------|----------------------------|
+| Malware Analysis                              | NanoCore Analysis          |
+|-----------------------------------------------|----------------------------|
 
-## Tools-->
+<!--## Tools-->
 ## Certifications
 <div>
   <img src="https://img.shields.io/badge/-PCEP-306998?&style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-eJPT-000000?&style=for-the-badge&logo=offensive%20security&logoColor=white" />
 </div>
-
-## Projects
