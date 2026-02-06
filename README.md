@@ -13,6 +13,7 @@ I am currently pursuing Cybersecurity with an interest in technology and a dedic
 | C# programming (OOP)                          | PRG2 Assignment            |
 | Front-End Development                         | CSS Assignment             |
 | Malware Analysis                              | NanoCore Analysis          |
+| Machine Learning                              | UNSW-NB15 AI-based NIDS    |
 
 <!--## Tools-->
 ## Certifications
